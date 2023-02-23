@@ -1,0 +1,12 @@
+name=["azaz","khan","musalman","aap"]
+name.append("bhai")
+print(name)
+name.remove("azaz")
+print(name)
+name.insert(2,'a')
+print(name)
+print(len(name))
+name.pop(2)
+print(name)
+name.clear()
+print(name)
