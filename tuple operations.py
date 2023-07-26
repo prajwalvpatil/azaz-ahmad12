@@ -5,5 +5,5 @@ print("the length of the tuple:",len(t))
 print(3 in t)
 print(10 in t)
 print("the elements of tuple are")
-for 5 in t:
+for i in t:
   print(i)
